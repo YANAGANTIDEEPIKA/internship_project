@@ -12,3 +12,5 @@ This repository contains all the projects I worked on during my internship. Each
                 The goal of the game is simple yet challenging: catch the falling balls using a paddle controlled by the player. As the game progresses, the speed of the falling balls 
                 increases, adding to the difficulty and excitement.
    - Technologies:  HTML5,CSS,Javascript.
+   - How to Play: Use the left and right arrow keys to move the paddle.
+                Catch the falling balls with the paddle to score points.
