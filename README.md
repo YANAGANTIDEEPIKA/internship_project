@@ -14,3 +14,6 @@ This repository contains all the projects I worked on during my internship. Each
    - Technologies:  HTML5,CSS,Javascript.
    - How to Play: Use the left and right arrow keys to move the paddle.
                 Catch the falling balls with the paddle to score points.
+3. **Image-Slider**
+   - Description: This image slider is a responsive, full-screen slideshow designed to showcase a series of images with accompanying text.
+   - Technologies:  HTML5,CSS,Javascript.
