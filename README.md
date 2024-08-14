@@ -17,3 +17,6 @@ This repository contains all the projects I worked on during my internship. Each
 3. **Image-Slider**
    - Description: This image slider is a responsive, full-screen slideshow designed to showcase a series of images with accompanying text.
    - Technologies:  HTML5,CSS,Javascript.
+4. **Spiderman WOrld**
+   - Description: This image slider is a responsive, full-screen slideshow designed to showcase a series of images with accompanying text.
+   - Technologies:  HTML5,CSS,Javascript
